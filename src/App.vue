@@ -10,10 +10,10 @@
           <img src="@/assets/imgs/mgh.jpg" alt="冠华照片" class="avatar" />
           <div class="info">
             <h2>冠华</h2>
-            <p>年龄：28 岁</p>
-            <p>职业：程序员</p>
+            <p>年龄：22 岁</p>
+            <p>职业：人民企业家</p>
             <p>兴趣：音乐、电影、美食、旅行</p>
-            <p>座右铭：<i>“代码如人生，简洁而优雅。”</i></p>
+            <p>座右铭：<i>“不做无法实现的梦。”</i></p>
           </div>
         </div>
       </el-card>
@@ -61,7 +61,7 @@ const handleSubmit = () => {
     ElMessage.warning('请填写完整信息哦～')
     return
   }
-  ElMessage.success('红线已发出，静待佳音💞')
+  ElMessage.success('红线已发出，静待佳阴💞')
   console.log('提交信息：', form.value)
 }
 </script>
