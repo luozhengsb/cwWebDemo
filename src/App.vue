@@ -49,6 +49,7 @@
 
 <script setup>
 import { ref } from 'vue'
+import { ElMessage } from 'element-plus'
 
 const form = ref({
   name: '',
