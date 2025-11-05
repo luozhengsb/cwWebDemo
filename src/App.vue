@@ -6,7 +6,7 @@
       src="@/assets/imgs/logo.png"
       alt="Test Image"
     />
-    <HelloWorld msg="网站部署测试" />
+    <HelloWorld msg="网站部署测试111" />
 
     <p>by 群鸟</p>
   </div>
